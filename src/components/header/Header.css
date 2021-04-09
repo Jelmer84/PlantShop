@@ -51,11 +51,15 @@ nav a:link {
 .language-switch svg {
     display: block;
     width: 30px;
-    margin-left: 10px;
 }
 
 .active {
     color: red;
+}
+
+button {
+    border: transparent;
+    background-color: transparent;
 }
 
 
